@@ -1,0 +1,87 @@
+Hi Techies
+
+ 
+
+Hope You all are doing well!!
+
+ 
+
+I hope this message finds you well. As part of your capstone project requirements, to announce your project assignment. The project is titled "Exploratory Data Analysis (EDA) on a Sales Dataset." This capstone project is a critical component of your coursework and is designed to enhance your data analysis and problem-solving skills.
+
+ 
+
+Project Details:
+
+ 
+
+Objective: The main goal of this project is to conduct an exploratory data analysis (EDA) on a sales dataset to uncover insights and trends that can be used to inform business decisions. You will also gain experience in data cleaning, data visualization, and statistical analysis.
+
+ 
+
+Project Description: The dataset you will be working with is a real-world sales dataset containing information on product sales, customer demographics, and transaction details. Your analysis will play a crucial role in helping a hypothetical retail company make informed decisions to improve its sales and customer satisfaction.
+
+ 
+
+Scope and Requirements: The project scope includes data cleaning, data exploration, the creation of visualizations, and the development of a final report. You will need to use tools and techniques covered in your coursework. Detailed requirements and guidelines will be provided in the project description document, which is attached to this email.
+
+ 
+
+Grading and Evaluation: You will be evaluated based on the quality of your data analysis, the clarity of your visualizations, and the insights derived from your EDA.
+
+ 
+
+Timeline: The project is due on 6-11-2023. You are encouraged to plan your time accordingly to ensure a successful project submission.
+
+ 
+
+Instructions:
+
+ 
+
+To submit your project, please adhere to the following guidelines:
+
+ 
+
+Prepare your project report and any associated materials (charts, graphs, etc.) as specified in the project description document.
+
+ 
+
+Compile all project materials into a single email attachment. You can use a common format such as PDF or a compressed folder (e.g., ZIP) for multiple files.
+
+ 
+
+Send the submission email to
+
+ 
+
+To : aawaradi9@gmail.com
+
+CC : bhoomika.hk@edujournal.com , usha.s@edujournal.com
+
+ 
+
+with the subject line "Capstone Project Submission: [Your Name]." This ensures that your submission is correctly identified.
+
+ 
+
+Acknowledgment:
+
+ 
+
+Kindly confirm your receipt of this project assignment.
+
+ 
+
+If you have any questions or need clarification during the project work or submission process, please do not hesitate to reach out to me or the concerned trainer
+
+ 
+
+Please let me know if you need any further assistance.
+
+ 
+
+Thanks, and Regards
+
+Bhoomika
+
+Edujournal
